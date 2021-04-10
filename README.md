@@ -7,7 +7,6 @@ Scrap data from worldometers and print information dynamically on cmd
 <li> run -> <b>pip install -r requirements.txt</b> to install the selenium package </li>
 <li> go inside the folder and run <b>main.py</b> file from windows terminal </li>
 
-
-<img src="https://ibb.co/2ntvjRp" alt="cmd terminal" height="30" width="40" />
+![cmd terminal output](./Selenium_day1.JPG "Running on CMD Terminal")
 
 
