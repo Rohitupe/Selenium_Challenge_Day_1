@@ -46,9 +46,10 @@ while True:
         os.system('CLS')
         data = get_data()
 
+    # print(data)
     stdout.write('\r' + data)
     stdout.flush()
-    # time.sleep(0.5) --> Uncomment this to see how data is changing dynamically
+    # time.sleep(0.3) # --> Uncomment this to see how data is changing dynamically
 
 time.sleep(3)
 driver.close()
